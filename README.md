@@ -1,14 +1,1 @@
 # Comando linux Úteis
-ls - lista os arquivos e diretórios em um determinado diretório.
-cd - muda o diretório atual para o diretório especificado.
-mkdir - cria um novo diretório.
-rm - exclui um arquivo ou diretório.
-cp - copia arquivos e diretórios.
-mv - move ou renomeia arquivos e diretórios.
-cat - exibe o conteúdo de um arquivo.
-grep - pesquisa por padrões em um arquivo ou saída de comando.
-sudo - executa um comando com privilégios de root (superusuário).
-chmod - altera as permissões de acesso a um arquivo ou diretório.
-
-cd, ls, mkdir, rm -rf, del/rmdir, cls, clear, echo
-pull, fork, git clone ... ,
